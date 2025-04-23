@@ -1,4 +1,4 @@
-# 1. huẩn bị môi trường
+# 1. Chuẩn bị môi trường
 
 - Máy ảo Ubuntu có cài đặt labtainer
 
